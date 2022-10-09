@@ -3,6 +3,14 @@ A configurable skybox generator with procedurally generated clouds.
 
 Can also be used as a CPU / WASI runtime benchmarking tool.
 
+## Previews
+
+![skybox](previews/skybox.png)
+*The sun is perfectly round when the box is "folded". The image is brightened in this preview*
+
+![render](previews/render.png)
+*A render using the skybox above as the only light source*
+
 ## Installation and Running
 Requires a bash (or equivalent) command line, git and Rust toolchain.
 
@@ -43,11 +51,3 @@ Edit the *config.ini* file to change the simulation parameters.
 The output images are saved in the *output/* directory.
 
 It is necessary to move the images to another location or rename them to prevent the application from overwriting them the next time it is run.
-
-## Previews
-
-![skybox](previews/skybox.png)
-*The sun is perfectly round when the box is "folded". The image is brightened in this preview*
-
-![render](previews/render.png)
-*A render using the skybox above as the only light source*
