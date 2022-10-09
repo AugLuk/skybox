@@ -1,4 +1,4 @@
-# skybox
+# Skybox
 A configurable skybox generator with procedurally generated clouds.
 
 Can also be used as a CPU / WASI runtime benchmarking tool.
