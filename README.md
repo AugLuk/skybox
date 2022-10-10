@@ -12,7 +12,7 @@ Can also be used as a CPU / WASI runtime benchmarking tool.
 *A render using the skybox above as the only light source*
 
 ## Installation and Running
-Requires a bash (or equivalent) command line, git and Rust toolchain.
+Requires a bash (or equivalent) command line, git and the Rust toolchain.
 
 ### Preparation - Getting the Source Code (for all builds)
 
