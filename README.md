@@ -6,7 +6,7 @@ Can also be used as a CPU / WASI runtime benchmarking tool.
 ## Previews
 
 ![skybox](previews/skybox.png)
-*The sun is perfectly round when the box is "folded". The image is brightened in this preview*
+*The sun is perfectly round when the box is "folded"*
 
 ![render](previews/render.png)
 *A render using the skybox above as the only light source*
